@@ -4,8 +4,6 @@ description: ''
 file: /courses/pe-730-archery-spring-2006/d1889b78650aa369355b7a25b28350a2_archery.pdf
 file_size: 232487
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

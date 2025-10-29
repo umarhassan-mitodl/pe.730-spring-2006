@@ -5,8 +5,6 @@ description: This resource includes information on shooting and scoring from 20 
 file: /courses/pe-730-archery-spring-2006/417aa07c9b7a55d970d2322f5a899f2b_lec_11.pdf
 file_size: 31037
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

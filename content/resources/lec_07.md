@@ -5,8 +5,6 @@ description: This resource includes information on speed shooting techniques wit
 file: /courses/pe-730-archery-spring-2006/a827f1aa00b1803fb7eb20b0a1f07b2f_lec_07.pdf
 file_size: 32593
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

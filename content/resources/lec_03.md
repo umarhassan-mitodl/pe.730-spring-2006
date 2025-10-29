@@ -5,8 +5,6 @@ description: This resource includes information on draw technique; stance, arm a
 file: /courses/pe-730-archery-spring-2006/863afe2a24a62a43b71a3e9701fb2d97_lec_03.pdf
 file_size: 32956
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

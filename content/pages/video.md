@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Video
@@ -31,7 +29,7 @@ From the shooting line, the class prepares to shoot.
 {{< tdopen >}}
 
 
-([MP4](http://archive.org/download/MITPE.730S06/MOV0C3-220k_512kb.mp4))
+({{% resource_link "d0a0e5b8-88f5-435f-84d5-b99771545474" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -44,7 +42,7 @@ Class is in session, shooting from the line.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0C2-220k_512kb.mp4))
+({{% resource_link "4f5ed1cd-f0bb-431f-b27b-bbc4298baeb5" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -57,7 +55,7 @@ A second view of class in session.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0B1-220k_512kb.mp4))
+({{% resource_link "ede23a78-14eb-4639-9d0f-fc73550ac016" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -70,7 +68,7 @@ Closeup view of shooting from the line.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0C7-220k_512kb.mp4))
+({{% resource_link "6a0d4e95-ad23-4e4d-8fb7-1f4c1d634059" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -83,7 +81,7 @@ A view from behind the shooting line, showing the shooting stance and placement 
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0C6-220k_512kb.mp4))
+({{% resource_link "4729a8ae-0129-4a08-9d38-92c6b92fc846" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -96,7 +94,7 @@ Two students shoot from the line.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0C1-220k_512kb.mp4))
+({{% resource_link "8c37ef63-8076-4663-8592-567fead98505" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -109,7 +107,7 @@ Arrows hit the target.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0B6-220k_512kb.mp4))
+({{% resource_link "e67151a1-27cf-4e34-ad81-c60aa824668d" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -122,7 +120,7 @@ Grouping of arrows is emphasized.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0B7-220k_512kb.mp4))
+({{% resource_link "99375a6b-bcdc-438d-b145-6eb8da95b69c" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -135,7 +133,7 @@ After all arrows have been shot, they are retrieved from the targets.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0D8-220k_512kb.mp4))
+({{% resource_link "55c3ff57-535a-4e66-bec2-bf461558e1dd" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -166,7 +164,7 @@ Student 1: Draw, anchor, and release.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0BB-220k_512kb.mp4))
+({{% resource_link "49446de8-eac3-4fd3-af6e-ae487a39ab0c" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -179,7 +177,7 @@ Student 1: The release.
 {{< tdopen >}}
 
 
-([MP4](http://archive.org/download/MITPE.730S06/MOV0B2-220k_512kb.mp4))
+({{% resource_link "cfffed15-9c8f-4c71-ace6-8d89dd49d59d" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -192,7 +190,7 @@ Student 2: Draw, anchor, and release.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0CD-220k_512kb.mp4))
+({{% resource_link "d094699f-8150-4f1f-aa43-020ac36665e1" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -205,7 +203,7 @@ Student 3: Draw, anchor, and release.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0D1-220k_512kb.mp4))
+({{% resource_link "57c35202-13ab-4f67-b275-86fed7a6f850" "MP4" %}})
 
 
 {{< tdclose >}}
@@ -218,7 +216,7 @@ Student 3: Closeup of the release.
 {{< tdopen >}}
 
 
-([MP4](http://www.archive.org/download/MITPE.730S06/MOV0D2-220k_512kb.mp4))
+({{% resource_link "2a16ec05-4cf0-4f7d-b6f5-19836760c081" "MP4" %}})
 
 
 {{< tdclose >}}

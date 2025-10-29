@@ -2,8 +2,6 @@
 content_type: page
 description: The syllabus section includes course description, preliminary information-attendance
   and credit policies, and a note about the instructor.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

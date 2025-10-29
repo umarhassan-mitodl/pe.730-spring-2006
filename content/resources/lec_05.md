@@ -5,8 +5,6 @@ description: This resource includes information on adjusting the sight on the bo
 file: /courses/pe-730-archery-spring-2006/0bff6bb12e27b5cbed1c6d70bd794bba_lec_05.pdf
 file_size: 32422
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
